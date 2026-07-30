@@ -126,14 +126,31 @@ Frontend Server:
 http://localhost:3000
 ```
 
-## 👨‍💻 Author
+<h2>👨‍💻 Author</h2>
 
-**Shankar Sala**
+<p><b>Shankar Sala</b></p>
 
-GitHub: **https://github.com/shankarsala**
+<ul>
+  <li>
+    GitHub:
+    <a href="https://github.com/shankarsala" target="_blank">
+      https://github.com/shankarsala
+    </a>
+  </li>
 
----
+  <li>
+    LinkedIn:
+    <a href="https://www.linkedin.com/in/shankarsala/" target="_blank">
+      https://www.linkedin.com/in/shankarsala/
+    </a>
+  </li>
 
-## 📄 License
+</ul>
 
-This project is created for learning, practice, and portfolio purposes.
+<hr>
+
+<h2>⭐ Support</h2>
+
+<p>
+If you like this project, give it a ⭐ on GitHub!
+</p>
